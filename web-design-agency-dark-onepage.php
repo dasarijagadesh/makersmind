@@ -517,7 +517,7 @@ include"essentials/header.php";
         <div class="row">
             <div class="col-lg-5 v-center">
                 <div class="common-heading text-l">
-                    <span>Clients Testimonial</span>
+                    <span>Clients</span>
                     <h2 class="mb0">What our clients say about our Company.</h2>
                 </div>
             </div>
