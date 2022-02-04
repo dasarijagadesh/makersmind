@@ -48,6 +48,13 @@
             </div>
         </div>
     </div>
+    <!-- <div class="preloder" id="page-preloader">
+        <div class="circle"></div>
+    </div>
+    <div class="pre-text- text-radius text-light text-animation bg-b">
+        Makersmind
+    </div> -->
+    </div>
     <!--End Preloader -->
     <!--Start Header -->
     <header class="header-pr nav-bg-b main-header navfix fixed-top menu-white white-mb">
@@ -77,10 +84,10 @@
                                                     <li><a href="about.php">About Company</a></li>
                                                     <li><a href="about.php #vision"> Vision</a></li>
                                                     <li><a href="about.php #vision">Mission</a></li>
-                                                    <li><a href="about.php #team"> Team</a></li>
+                                                    <li><a href="our-tem.php"> Team</a></li>
                                                     <li><a href="about.php #client-stories">Client Success Stories </a>
                                                     </li>
-                                                    <li><a href="about.php #leadership">Leadership Team </a></li>
+                                                    <li><a href="our-leadership.php">Leadership Team </a></li>
                                                     <li><a href="about.php #Processes"> Work Process</a></li>
                                                     <li><a href="about.php #we-do"> What We Do</a></li>
                                                     <li><a href="about.php #Corporate"> Corporate Citizenship</a></li>
@@ -96,174 +103,129 @@
                             <a href="#" class="menu-links">Services</a>
                             <div class="nx-dropdown clss-s-drop">
                                 <div class="sub-menu-section border-radious-service">
-                                    <div class="">
-                                        <div class="sub-menu-center-block">
-
-                                            <div class="sub-menu-column">
-                                                <h5 class="serv-n">WEB DESIGN & DEVELOPMENT</h5>
-                                                <ul class="footer-address-list link-hover">
-                                                    <li><a href="get-quote.html"> UI Design</a></li>
-                                                    <li><a href="javascript:void(0)"> UX Design</a></li>
-                                                    <li><a href="javascript:void(0)"> Brand and Identity</a></li>
-                                                    <li><a href="javascript:void(0)"> Graphic and Illustrations</a></li>
-                                                    <li><a href="javascript:void(0)">React JS </a></li>
-                                                    <li><a href="javascript:void(0)">Node JS</a></li>
-                                                    <li><a href="javascript:void(0)"> Python-Django</a></li>
-                                                    <li><a href="javascript:void(0)"> Platform as a Service</a></li>
-                                                    <li><a href="javascript:void(0)"> Backend Development</a></li>
-
-                                                </ul>
-                                                <h5 class="serv-n">IOT SOLUTIONS</h5>
-                                                <ul class="footer-address-list link-hover">
-                                                    <li><a href="get-quote.html"> IOT Consultation</a></li>
-                                                    <li><a href="javascript:void(0)">IOT Platform Development</a>
-                                                    </li>
-                                                    <li><a href="javascript:void(0)">Gateway Development</a></li>
-                                                    <li><a href="javascript:void(0)"> Data Management</a></li>
-
-                                                </ul>
-                                            </div>
-                                            <div class="sub-menu-column">
-                                                <h5 class="serv-n">GRAPHIC DESIGNING</h5>
-                                                <ul class="footer-address-list link-hover">
-                                                    <li><a href="get-quote.html">3D Product Packaging Design </a>
-                                                    </li>
-                                                    <li><a href="javascript:void(0)"> Label Designs</a></li>
-                                                    <li><a href="javascript:void(0)">Flyer/Boucher Design</a></li>
-                                                    <li><a href="javascript:void(0)">Social Media Posts</a></li>
-                                                    <li><a href="javascript:void(0)"> Logo Designing</a></li>
-                                                    <li><a href="javascript:void(0)">Custom News Letter Designing</a>
-                                                    </li>
-                                                    <li><a href="javascript:void(0)">Production Designing</a>
-                                                    </li>
-                                                    <li><a href="javascript:void(0)"> Advertising</a>
-                                                    </li>
-                                                </ul>
-                                                <h5 class="serv-n">MACHINE LEARNING SERVICES</h5>
-                                                <ul class="footer-address-list link-hover">
-                                                    <li><a href="get-quote.html"> Cognitive Services</a></li>
-                                                    <li><a href="javascript:void(0)"> Data Automation</a></li>
-                                                    <li><a href="javascript:void(0)">Marketing Automation</a></li>
-                                                    <li><a href="javascript:void(0)">Neural Network Development</a>
-                                                    </li>
-                                                    <li><a href="javascript:void(0)">NLP</a></li>
-                                                    <li><a href="javascript:void(0)"> Develop Smart Products</a></li>
-                                                </ul>
-                                            </div>
-
-                                            <div class="sub-menu-column">
-
-                                                <h5 class="serv-n">
-                                                    DIGITAL MARKETING
-                                                </h5>
-                                                <ul class="footer-address-list link-hover">
-                                                    <li><a href="get-quote.html">Organic Reach</a></li>
-                                                    <li><a href="javascript:void(0)"> Brand Building</a></li>
-                                                    <li><a href="javascript:void(0)"> Strategy Development</a></li>
-                                                    <li><a href="javascript:void(0)"> Business Solutions</a></li>
-                                                    <li><a href="javascript:void(0)"> Ad Campaign Setups</a></li>
-
-                                                </ul>
-                                                <h5 class="serv-n">RECRUITMENT SERVICES</h5>
-                                                <ul class="footer-address-list link-hover">
-                                                    <li><a href="get-quote.html">Recruitment Services</a></li>
-                                                    <li><a href="javascript:void(0)"> Consulting Services</a></li>
-                                                    <li><a href="javascript:void(0)">Out Sourcing Services</a></li>
-                                                    <li><a href="javascript:void(0)"> How We Do</a></li>
-
-                                                </ul>
-                                                <h5 class="serv-n">CLOUD CONSULTING SERVICES</h5>
-                                                <ul class="footer-address-list link-hover">
-                                                    <li><a href="get-quote.html">Cloud Consultation</a></li>
-                                                    <li><a href="javascript:void(0)">Devops</a></li>
-                                                    <li><a href="javascript:void(0)"> Cloud Engineering</a></li>
-                                                    <li><a href="javascript:void(0)"> Security Management</a></li>
-
-                                                </ul>
-                                            </div>
-
-                                            <div class="sub-menu-column">
-
-                                                <h5 class="serv-n">HOSTING SERVICES</h5>
-                                                <ul class="footer-address-list link-hover">
-
-                                                    <li><a href="javascript:void(0)"> Domain</a></li>
-                                                    <li><a href="javascript:void(0)">Hosting</a></li>
-                                                    <li><a href="javascript:void(0)">SSL Security </a></li>
-                                                    <li><a href="javascript:void(0)"> Business Emails</a>
-                                                    </li>
-                                                    <li><a href="javascript:void(0)"> 3d Modelling</a>
-                                                    </li>
-                                                    <li><a href="javascript:void(0)">Visual Effects</a>
-                                                    </li>
-
-                                                </ul>
-                                                <h5 class="serv-n">SOFTWARE DEVELOPMENT SERVICES</h5>
-                                                <ul class="footer-address-list link-hover">
-
-                                                    <li><a href="javascript:void(0)"> Custom Software Design</a></li>
-                                                    <li><a href="javascript:void(0)">CRM Software Development</a>
-                                                    </li>
-                                                    <li><a href="javascript:void(0)">Workforce Management
-                                                            Software</a></li>
-                                                    <li><a href="javascript:void(0)"> Product Lifecycle
-                                                            Managements</a>
-                                                    </li>
-
-
-                                                </ul>
-
-
-                                                <h5 class="serv-n">VR</h5>
-                                                <ul class="footer-address-list link-hover">
-                                                    <li><a href="get-quote.html"> Non-Immersive Simulations</a></li>
-                                                    <li><a href="javascript:void(0)">Semi Immersive Simulations</a>
-                                                    </li>
-                                                    <li><a href="javascript:void(0)"> Fully Immersive Simulations</a>
-                                                    </li>
-
-                                                </ul>
-
-                                            </div>
-                                            <div class="sub-menu-column">
-                                                <h5 class="serv-n">GAMING DEVELOPMENT</h5>
-                                                <ul class="footer-address-list link-hover">
-
-                                                    <li><a href="javascript:void(0)"> Gaming arc & Animation</a></li>
-                                                    <li><a href="javascript:void(0)">Game Design</a></li>
-                                                    <li><a href="javascript:void(0)"> Game Program </a></li>
-                                                    <li><a href="javascript:void(0)"> Visual Effects</a>
-                                                    </li>
-                                                    <li><a href="javascript:void(0)"> 3d Modelling</a>
-                                                    </li>
-                                                    <li><a href="javascript:void(0)">Visual Effects</a>
-                                                    </li>
-
-                                                </ul>
-                                                <h5 class="serv-n">APPLICATION DEVELOPMENT</h5>
-                                                <ul class="footer-address-list link-hover">
-
-                                                    <li><a href="javascript:void(0)"> Custom App Design</a></li>
-                                                    <li><a href="javascript:void(0)">Android App Development</a></li>
-                                                    <li><a href="javascript:void(0)"> IOS App Development </a></li>
-                                                    <li><a href="javascript:void(0)"> Web Application Development</a>
-                                                    </li>
-
-                                                </ul>
-
-                                                <h5 class="serv-n">AR </h5>
-                                                <ul class="footer-address-list link-hover">
-                                                    <li><a href="get-quote.html">Location Based AR</a></li>
-                                                    <li><a href="javascript:void(0)">Projection</a></li>
-                                                    <li><a href="javascript:void(0)"> Overlay AR </a></li>
-                                                    <li><a href="javascript:void(0)"> Contour AR</a></li>
-
-                                                </ul>
-
-                                            </div>
+                                    <div class="sub-menu-center-block">
+                                        <div class="sub-menu-column">
+                                            <h5 class="serv-n">WEB DESIGN & DEVELOPMENT</h5>
+                                            <ul class="footer-address-list link-hover">
+                                                <li><a href="get-quote.html"> UI Design</a></li>
+                                                <li><a href="javascript:void(0)"> UX Design</a></li>
+                                                <li><a href="javascript:void(0)"> Brand and Identity</a></li>
+                                                <li><a href="javascript:void(0)"> Graphic and Illustrations</a></li>
+                                                <li><a href="javascript:void(0)">React JS </a></li>
+                                                <li><a href="javascript:void(0)">Node JS</a></li>
+                                                <li><a href="javascript:void(0)"> Python-Django</a></li>
+                                                <li><a href="javascript:void(0)"> Platform as a Service</a></li>
+                                                <li><a href="javascript:void(0)"> Backend Development</a></li>
+                                            </ul>
+                                            <h5 class="serv-n">IOT SOLUTIONS</h5>
+                                            <ul class="footer-address-list link-hover">
+                                                <li><a href="get-quote.html"> IOT Consultation</a></li>
+                                                <li><a href="javascript:void(0)">IOT Platform Development</a></li>
+                                                <li><a href="javascript:void(0)">Gateway Development</a></li>
+                                                <li><a href="javascript:void(0)"> Data Management</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="sub-menu-column">
+                                            <h5 class="serv-n">GRAPHIC DESIGNING</h5>
+                                            <ul class="footer-address-list link-hover">
+                                                <li><a href="get-quote.html">3D Product Packaging Design </a></li>
+                                                <li><a href="javascript:void(0)"> Label Designs</a></li>
+                                                <li><a href="javascript:void(0)">Flyer/Boucher Design</a></li>
+                                                <li><a href="javascript:void(0)">Social Media Posts</a></li>
+                                                <li><a href="javascript:void(0)"> Logo Designing</a></li>
+                                                <li><a href="javascript:void(0)">Custom News Letter Designing</a></li>
+                                                <li><a href="javascript:void(0)">Production Designing</a></li>
+                                                <li><a href="javascript:void(0)"> Advertising</a></li>
+                                            </ul>
+                                            <h5 class="serv-n">MACHINE LEARNING SERVICES</h5>
+                                            <ul class="footer-address-list link-hover">
+                                                <li><a href="get-quote.html"> Cognitive Services</a></li>
+                                                <li><a href="javascript:void(0)"> Data Automation</a></li>
+                                                <li><a href="javascript:void(0)">Marketing Automation</a></li>
+                                                <li><a href="javascript:void(0)">Neural Network Development</a></li>
+                                                <li><a href="javascript:void(0)">NLP</a></li>
+                                                <li><a href="javascript:void(0)"> Develop Smart Products</a></li>
+                                            </ul>
                                         </div>
 
+                                        <div class="sub-menu-column">
+                                            <h5 class="serv-n">DIGITAL MARKETING</h5>
+                                            <ul class="footer-address-list link-hover">
+                                                <li><a href="get-quote.html">Organic Reach</a></li>
+                                                <li><a href="javascript:void(0)"> Brand Building</a></li>
+                                                <li><a href="javascript:void(0)"> Strategy Development</a></li>
+                                                <li><a href="javascript:void(0)"> Business Solutions</a></li>
+                                                <li><a href="javascript:void(0)"> Ad Campaign Setups</a></li>
+                                            </ul>
+                                            <h5 class="serv-n">RECRUITMENT SERVICES</h5>
+                                            <ul class="footer-address-list link-hover">
+                                                <li><a href="get-quote.html">Recruitment Services</a></li>
+                                                <li><a href="javascript:void(0)"> Consulting Services</a></li>
+                                                <li><a href="javascript:void(0)">Out Sourcing Services</a></li>
+                                                <li><a href="javascript:void(0)"> How We Do</a></li>
+                                            </ul>
+                                            <h5 class="serv-n">CLOUD CONSULTING SERVICES</h5>
+                                            <ul class="footer-address-list link-hover">
+                                                <li><a href="get-quote.html">Cloud Consultation</a></li>
+                                                <li><a href="javascript:void(0)">Devops</a></li>
+                                                <li><a href="javascript:void(0)"> Cloud Engineering</a></li>
+                                                <li><a href="javascript:void(0)"> Security Management</a></li>
+                                            </ul>
+                                        </div>
+
+                                        <div class="sub-menu-column">
+                                            <h5 class="serv-n">HOSTING SERVICES</h5>
+                                            <ul class="footer-address-list link-hover">
+                                                <li><a href="javascript:void(0)"> Domain</a></li>
+                                                <li><a href="javascript:void(0)">Hosting</a></li>
+                                                <li><a href="javascript:void(0)">SSL Security </a></li>
+                                                <li><a href="javascript:void(0)"> Business Emails</a></li>
+                                                <li><a href="javascript:void(0)"> 3d Modelling</a></li>
+                                                <li><a href="javascript:void(0)">Visual Effects</a></li>
+                                            </ul>
+                                            <h5 class="serv-n">SOFTWARE DEVELOPMENT SERVICES</h5>
+                                            <ul class="footer-address-list link-hover">
+                                                <li><a href="javascript:void(0)"> Custom Software Design</a></li>
+                                                <li><a href="javascript:void(0)">CRM Software Development</a></li>
+                                                <li><a href="javascript:void(0)">Workforce Management Software</a></li>
+                                                <li><a href="javascript:void(0)"> Product Lifecycle Managements</a></li>
+                                            </ul>
+
+                                            <h5 class="serv-n">VR</h5>
+                                            <ul class="footer-address-list link-hover">
+                                                <li><a href="get-quote.html"> Non-Immersive Simulations</a></li>
+                                                <li><a href="javascript:void(0)">Semi Immersive Simulations</a></li>
+                                                <li><a href="javascript:void(0)"> Fully Immersive Simulations</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="sub-menu-column">
+                                            <h5 class="serv-n">GAMING DEVELOPMENT</h5>
+                                            <ul class="footer-address-list link-hover">
+                                                <li><a href="javascript:void(0)"> Gaming arc & Animation</a></li>
+                                                <li><a href="javascript:void(0)">Game Design</a></li>
+                                                <li><a href="javascript:void(0)"> Game Program </a></li>
+                                                <li><a href="javascript:void(0)"> Visual Effects</a></li>
+                                                <li><a href="javascript:void(0)"> 3d Modelling</a></li>
+                                                <li><a href="javascript:void(0)">Visual Effects</a></li>
+                                            </ul>
+                                            <h5 class="serv-n">APPLICATION DEVELOPMENT</h5>
+                                            <ul class="footer-address-list link-hover">
+                                                <li><a href="javascript:void(0)"> Custom App Design</a></li>
+                                                <li><a href="javascript:void(0)">Android App Development</a></li>
+                                                <li><a href="javascript:void(0)"> IOS App Development </a></li>
+                                                <li><a href="javascript:void(0)"> Web Application Development</a></li>
+                                            </ul>
+
+                                            <h5 class="serv-n">AR</h5>
+                                            <ul class="footer-address-list link-hover">
+                                                <li><a href="get-quote.html">Location Based AR</a></li>
+                                                <li><a href="javascript:void(0)">Projection</a></li>
+                                                <li><a href="javascript:void(0)"> Overlay AR </a></li>
+                                                <li><a href="javascript:void(0)"> Contour AR</a></li>
+                                            </ul>
+                                        </div>
                                     </div>
+
                                 </div>
                             </div>
                         </li>
@@ -293,7 +255,7 @@
                         </li>
 
                         <li class=" rpdropdown">
-                            <a href="#" class="menu-links">Portfolio</a>
+                            <a href="" class="menu-links">Portfolio</a>
                             <!-- <div class="nx-dropdown menu-dorpdown">
                                 <div class="sub-menu-section">
                                     <div class="sub-menu-center-block">
@@ -315,7 +277,7 @@
                             </div> -->
                         </li>
                         <li class=" rpdropdown">
-                            <a href="#" class="menu-links">Insights</a>
+                            <a href="insight.php" class="menu-links">Insights</a>
                             <!-- <div class="nx-dropdown menu-dorpdown">
                                 <div class="sub-menu-section">
                                     <div class="sub-menu-center-block">
@@ -336,7 +298,11 @@
                                 </div>
                             </div> -->
                         </li>
-                        <li class="sbmenu rpdropdown">
+                        <li class="">
+                            <a href="careers.php" class="menu-links">Careers</a>
+
+                        </li>
+                        <!-- <li class="sbmenu rpdropdown">
                             <a href="careers.php" class="menu-links">Careers</a>
                             <div class="nx-dropdown menu-dorpdown">
                                 <div class="sub-menu-section">
@@ -353,7 +319,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </li>
+                        </li> -->
                         <li class="sbmenu rpdropdown">
                             <a href="more.php" class="menu-links">More</a>
                             <div class="nx-dropdown menu-dorpdown">
@@ -365,8 +331,8 @@
                                                     <li><a href="more.php #home"> Life at Makers Mind</a></li>
                                                     <li><a href="more.php #about"> All you need to know about Makers
                                                             Mind</a></li>
-                                                    <li><a href="javascript:void(0)"> Do’s and Don’ts</a></li>
-                                                    <li><a href="javascript:void(0)"> Ways to Hire Us</a></li>
+                                                    <!-- <li><a href="javascript:void(0)"> Do’s and Don’ts</a></li>
+                                                    <li><a href="javascript:void(0)"> Ways to Hire Us</a></li> -->
                                                 </ul>
                                             </div>
                                         </div>

@@ -110,7 +110,7 @@ include"essentials/header.php";
 </section>
 <!--End Breadcrumb Area-->
 <!--Start About-->
->
+
 <section class="about-agency pad-tb block-1" id="About-Company">
     <div class="container">
         <div class="row">
@@ -176,7 +176,7 @@ include"essentials/header.php";
 <section class="pb100" id="vision">
     <div class="container">
 
-        <div class="row mt30">
+        <div class="row mt30 pb100">
             <div class="col-lg-6 col-sm-12 mt30">
                 <div class="s-block2">
                     <div class="card-icon"><img src="images/icons/vision.png" alt="icon" class="w80 mb20"></div>
@@ -208,6 +208,124 @@ include"essentials/header.php";
                 </div>
             </div>
         </div>
+        <!-- /////leadership -start//////////////////// -->
+        <div class="teamWrapper mb100" id="leadership">
+            <div class="container">
+                <div class="common-heading ptag">
+
+                    <h2 class="mb30 clr-w">
+                        Leadership Team
+                    </h2>
+                    <h6 class="leadership-sha">
+                        Leadership Team
+                    </h6>
+                </div>
+                <div class="row pt-4 mt-4">
+                    <div class="col-lg-3">
+                        <a href="leader-details1.php">
+                            <div class="teamcol">
+                                <div class="teamcolinner">
+                                    <div class="avatar"><img src="images/john-lat1.jpg" alt="Member"></div>
+                                    <div class="member-name">
+                                        <h2 align="center">
+                                            John Williams</h2>
+                                    </div>
+                                    <div class="member-info text-center">
+                                        <p align="center">Founder & Director</p>
+                                    </div>
+                                    <div class="member-mail text-center">
+                                        <p align="center"> <a href="mailto:kettyleroux@gmail.com">info@makersmind.in</a>
+                                        </p>
+                                    </div>
+                                    <div class="member-social">
+                                        <ul class="social-listing">
+                                            <li><a href="#"><i class="fab fa-facebook-f"></i></i></a></li>
+                                            <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="teamcol">
+                            <div class="teamcolinner">
+                                <div class="avatar"><img src="images/sanjay-pic.jpeg" alt="Member"></div>
+                                <div class="member-name">
+                                    <h2 align="center">Sanjay Nalli</h2>
+                                </div>
+                                <div class="member-info">
+                                    <p align="center">
+                                        CEO & Co-Founder</p>
+                                </div>
+                                <div class="member-mail">
+                                    <p align="center"> <a href="mailto:kettyleroux@gmail.com">info@makersmind.in</a>
+                                    </p>
+                                </div>
+                                <div class="member-social">
+                                    <ul class="social-listing">
+                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class=" col-lg-3">
+                        <div class="teamcol">
+                            <div class="teamcolinner">
+                                <div class="avatar"><img src="images/ananthasai.png" alt="Member"></div>
+                                <div class="member-name">
+                                    <h2 align="center">A.S.K Mullapudi</h2>
+                                </div>
+                                <div class="member-info">
+                                    <p align="center">Operations Manager</p>
+                                </div>
+                                <div class="member-mail">
+                                    <p align="center"> <a href="mailto:kettyleroux@gmail.com">info@makersmind.in</a>
+                                    </p>
+                                </div>
+                                <div class="member-social">
+                                    <ul class="social-listing">
+                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class=" col-lg-3">
+                        <div class="teamcol">
+                            <div class="teamcolinner">
+                                <div class="avatar"><img src="https://picsum.photos/200?random=3" alt="Member"></div>
+                                <div class="member-name">
+                                    <h2 align="center">A.S.K Mullapudi</h2>
+                                </div>
+                                <div class="member-info">
+                                    <p align="center">Operations Manager</p>
+                                </div>
+                                <div class="member-mail">
+                                    <p align="center"> <a href="mailto:kettyleroux@gmail.com">info@makersmind.in</a>
+                                    </p>
+                                </div>
+                                <div class="member-social">
+                                    <ul class="social-listing">
+                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /////////////////////////////////////////// -->
         <!-- ///////////////////////////// -->
         <div class="container mt-4 mb-4" id="team">
             <div class="row">
@@ -535,117 +653,7 @@ include"essentials/header.php";
         </div>
     </div>
 </section>
-<!-- /////leadership -start//////////////////// -->
-<div class="teamWrapper mb100" id="leadership">
-    <div class="container">
-        <div class="common-heading ptag">
 
-            <h2 class="mb30 clr-w">
-                Leadership Team
-            </h2>
-            <h6 class="leadership-sha">
-                Leadership Team
-            </h6>
-        </div>
-        <div class="teamGrid row pt-4">
-            <div class="col-lg-3">
-                <div class="teamcol">
-                    <div class="teamcolinner">
-                        <div class="avatar"><img src="images/john-lat1.jpg" alt="Member"></div>
-                        <div class="member-name">
-                            <h2 align="center">
-                                John Williams</h2>
-                        </div>
-                        <div class="member-info text-center">
-                            <p align="center">Founder & Director</p>
-                        </div>
-                        <div class="member-mail text-center">
-                            <p align="center"> <a href="mailto:kettyleroux@gmail.com">info@makersmind.in</a> </p>
-                        </div>
-                        <div class="member-social">
-                            <ul class="social-listing">
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></i></a></li>
-                                <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3">
-                <div class="teamcol">
-                    <div class="teamcolinner">
-                        <div class="avatar"><img src="images/sanjay-pic.jpeg" alt="Member"></div>
-                        <div class="member-name">
-                            <h2 align="center">Sanjay Nalli</h2>
-                        </div>
-                        <div class="member-info">
-                            <p align="center">
-                                CEO & Co-Founder</p>
-                        </div>
-                        <div class="member-mail">
-                            <p align="center"> <a href="mailto:kettyleroux@gmail.com">info@makersmind.in</a> </p>
-                        </div>
-                        <div class="member-social">
-                            <ul class="social-listing">
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class=" col-lg-3">
-                <div class="teamcol">
-                    <div class="teamcolinner">
-                        <div class="avatar"><img src="images/ananthasai.png" alt="Member"></div>
-                        <div class="member-name">
-                            <h2 align="center">A.S.K Mullapudi</h2>
-                        </div>
-                        <div class="member-info">
-                            <p align="center">Operations Manager</p>
-                        </div>
-                        <div class="member-mail">
-                            <p align="center"> <a href="mailto:kettyleroux@gmail.com">info@makersmind.in</a> </p>
-                        </div>
-                        <div class="member-social">
-                            <ul class="social-listing">
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class=" col-lg-3">
-                <div class="teamcol">
-                    <div class="teamcolinner">
-                        <div class="avatar"><img src="https://picsum.photos/200?random=3" alt="Member"></div>
-                        <div class="member-name">
-                            <h2 align="center">A.S.K Mullapudi</h2>
-                        </div>
-                        <div class="member-info">
-                            <p align="center">Operations Manager</p>
-                        </div>
-                        <div class="member-mail">
-                            <p align="center"> <a href="mailto:kettyleroux@gmail.com">info@makersmind.in</a> </p>
-                        </div>
-                        <div class="member-social">
-                            <ul class="social-listing">
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- /////////////////////////////////////////// -->
 <!-- <section class="service-block pb100 pt-4 bg-gradient5" id="Processes">
     <div class="container">
         <div class="row justify-content-center">
@@ -746,7 +754,7 @@ include"essentials/header.php";
     </div>
 </section> -->
 <!--Start Work-Processes -->
-<section class=" " id="Corporate">
+<!-- <section class="padding-tm " id="Corporate">
     <div class="container-fluid">
         <div class="row padding-rowp">
 
@@ -815,8 +823,70 @@ include"essentials/header.php";
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <!--Work-Processes-->
+<!-- how-we-do -->
+<section class="blog-page pb100">
+    <div class="container">
+        <div class="row ">
+            <div class="col-md-12">
+                <div class="common-heading mt-4 pt-4">
+                    <h2 class="mb30 clr-w">
+                        How We Do
+                    </h2>
+                    <h6 class="choose-sha">
+                        How We Do
+                    </h6>
+                </div>
+            </div>
+            <div class="how-we-work-step">
+                <div class="border-line">
+                    <img class="lazy w-100" src="images/border-line.svg" style="display: block;">
+                </div>
+                <div class="row wi">
+                    <div class="col-xl-2 col-lg-2 col-md-4 col-sm-6 col-6">
+                        <div class="how-we-work-step-wrap slide-bottom">
+                            <img class="lazy" src="images/requirement-analysis.svg" alt="" style="display: inline;">
+                            <h6>Requirement Analysis</h6>
+                        </div>
+                    </div>
+                    <div class="col-xl-2 col-lg-2 col-md-4 col-sm-6 col-6">
+                        <div class="how-we-work-step-wrap slide-top">
+                            <img class="lazy" src="images/designing.svg" alt="" style="display: inline;">
+                            <h6>Designing</h6>
+                        </div>
+                    </div>
+                    <div class="col-xl-2 col-lg-2 col-md-4 col-sm-6 col-6">
+                        <div class="how-we-work-step-wrap slide-bottom">
+                            <img class="lazy" src="images/development.svg" alt="" style="display: inline;">
+                            <h6>Development</h6>
+                        </div>
+                    </div>
+                    <div class="col-xl-2 col-lg-2 col-md-4 col-sm-6 col-6">
+                        <div class="how-we-work-step-wrap slide-top">
+                            <img class="lazy" src="images/testing.svg" alt="" style="display: inline;">
+                            <h6>Testing</h6>
+                        </div>
+                    </div>
+                    <div class="col-xl-2 col-lg-2 col-md-4 col-sm-6 col-6">
+                        <div class="how-we-work-step-wrap slide-bottom">
+                            <img class="lazy" src="images/launch.svg" alt="" style="display: inline;">
+                            <h6>Launch</h6>
+                        </div>
+                    </div>
+                    <div class="col-xl-2 col-lg-2 col-md-4 col-sm-6 col-6">
+                        <div class="how-we-work-step-wrap slide-top">
+                            <img class="lazy" src="images/maintenance.svg" alt="" style="display: inline;">
+                            <h6>Maintenance</h6>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ////////// -->
 <!--Start why-choose-->
 <section class=" pb100  " id="we-do">
     <div class="container">

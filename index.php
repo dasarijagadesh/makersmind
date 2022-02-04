@@ -486,7 +486,7 @@ include"essentials/header.php";
         <div class="row justify-content-center">
             <div class="col-lg-8">
                 <div class="common-heading text-center">
-contact
+
                     <h2 class="mb20 pt-4 clr-w mt-4">
                         Our Services
                     </h2>

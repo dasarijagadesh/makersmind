@@ -109,9 +109,293 @@ include"essentials/header.php";
     </div>
 </section>
 <!--End Breadcrumb Area-->
+<!-- /////modal-form///// -->
+
+<!-- ................ -->
+<!--Start Service-->
+<!-- Modal -->
+<div class="modal fade " id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="  modal-dialog-centered modal-dialog-scrollable modal-adjustew">
+        <div class="modal-content content-m">
+            <div class="modal-header">
+                <h2 class="clr-w">Web Designer</h2>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <!-- form -->
+                <div class=" row d-flex">
+                    <div class="col-md-5 d-flex align-items-center">
+
+                        <div>
+                            <table class=tabled-th>
+                                <tr>
+                                    <th>
+                                        From &nbsp; :
+
+                                    </th>
+                                    <td class="td-hs">Managermakersmind.in</td>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        Experience &nbsp; :
+                                    </th>
+                                    <td class="td-hs">3 - 10 yr(s).</td>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        Salary &nbsp; :
+                                    </th>
+                                    <td class="td-hs">1 - 4 Lac(s)</td>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        Location &nbsp; :
+                                    </th>
+                                    <td class="td-hs">Rayudu pallem, Kakinada</td>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        Job Description&nbsp; :
+                                    </th>
+                                    <td class="td-hs">
+                                        CSS (Very strong / CSS3)- HTML (Very strong / HTML 5), Very strong
+                                        knowledge in javascript, jQuery , OOJS, and javacsript framework.
+                                        <span>Excellent communication skills as he/she will be communicating
+                                            with the client.
+                                            Adobe Photoshop, Dream viewer, Corel draw, HTML, Flash, Java script,
+                                            Illustrator ,Action script.
+                                            Expert in Photoshop, Fireworks, Dreamweaver, flash, website design,
+                                            Corel draw .</span>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        Required&nbsp; :
+                                    </th>
+                                    <td class="td-hs">
+                                        We are seeking a 5 year min experienced Web Designer with strong web
+                                        development and design skills.
+                                    </td>
+                                </tr>
+
+                            </table>
+
+                        </div>
+                    </div>
+                    <div class=" col-md-7  form-block">
+                        <div class="card-form">
+                            <h4 class="updated">Send Us Updated Profile </h4>
+                            <form action="#" method="post" name="feedback-form" class="form-input-carrier">
+                                <div class="fieldsets row">
+                                    <div class="col-md-6">
+                                        <input type="text" placeholder="Full Name" name="name" />
+                                    </div>
+                                    <div class="col-md-6">
+                                        <input type="email" placeholder="Email Address" name="email" />
+                                    </div>
+                                </div>
+                                <div class="fieldsets row">
+                                    <div class="col-md-6">
+                                        <input type="number" placeholder="Contact Number" name="phone" />
+                                    </div>
+                                    <div class="col-md-6">
+                                        <input type="text" placeholder="Location" name="subject" />
+                                    </div>
+                                </div>
+                                <div class="fieldsets">
+                                    <label for="job type pt-2">Job Type</label>
+                                    <select name="" id="">
+                                        <option value="">Select</option>
+                                        <option value="">WEb developer</option>
+                                        <option value="">WEb developer</option>
+                                        <option value="">WEb developer</option>
+                                        <option value="">WEb developer</option>
+                                        <option value="">WEb developer</option>
+                                    </select>
+                                </div>
+                                <div class="fieldsets">
+                                    <label for="job type pt-2">Expected ctc</label>
+                                    <select name="" id="">
+                                        <option value="">Select Expected ctc</option>
+                                        <option value="">0-2 lakhs</option>
+                                        <option value="">0-4 lakhs</option>
+                                        <option value="">0-6 lakhs</option>
+                                        <option value="">0-8 lakhs</option>
+                                        <option value="">0-10 lakhs</option>
+                                    </select>
+                                </div>
+                                <div class="filedsets">
+                                    <label for="" class="clr-w">Upload Your Resume</label>
+                                    <input class="padding-input" type="file" name="" id=""
+                                        placeholder="Upload Your Resume">
+                                </div>
+                                <!-- <div class="custom-control custom-checkbox">
+                                <input type="checkbox" class="custom-control-input" id="customCheck" name="example1"
+                                    checked="checked" />
+                                <label class="custom-control-label" for="customCheck">I agree to the
+                                    <a href="javascript:void(0)">Terms &amp; Conditions</a> of
+                                    Business Name.</label>
+                            </div> -->
+                                <div class="fieldsets mt20 d-flex justify-content-center">
+                                    <button type="submit" name="submit" class="lnk btn-main bg-btn button-sub">
+                                        Submit <i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span>
+                                    </button>
+                                </div>
+                                <p class="trm clr-w">
+                                    <i class="fas fa-lock"></i>We hate spam, and we respect your
+                                    privacy.
+                                </p>
+                            </form>
+                        </div>
+
+                    </div>
+                </div>
+
+                <!-- ... -->
+            </div>
+            <!-- <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Save changes</button>
+            </div> -->
+        </div>
+    </div>
+</div>
+<section class="service-section web-servic pb100 mt-2">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-12">
+                <div class="common-heading text-center">
+                    <h2 class=" clr-w ">
+                        Current Job Openings
+                    </h2>
+                    <h6 class="aboutb-sha">
+                        Current Job Openings
+                    </h6>
 
 
-<section class="texture-sec" id="current-job">
+                </div>
+            </div>
+        </div>
+        <div class="-cta-btn">
+            <div class="free-cta-title v-center wow zoomInDown" data-wow-delay=".9s">
+                <p>Hiring a <span>Dedicated Developers</span></p>
+                <a href="#" class="btn-main bg-btn2 lnk">Hire Now<i class="fas fa-chevron-right fa-icon"></i><span
+                        class="circle"></span></a>
+            </div>
+        </div>
+        <div class="row upset link-hover shape-num justify-content-center">
+            <div class="col-lg-3 col-sm-6 mt30 shape-loc wow fadeInUp" data-wow-delay="0.2s">
+                <div class="s-block" data-tilt data-tilt-max="5" data-tilt-speed="1000">
+
+                    <h4>Full Stack
+                        Developer</h4>
+                    <p>
+                        Are you a leader cum team player? Do you connect with creativity, time and organization culture?
+                    </p>
+                    <p>
+                        <span>
+                            2-5 Years of Experience
+                            Mumbai & Pune (Currently WFH)
+                            Full Time
+                        </span>
+                    </p>
+                    <!-- modal-button -->
+                    <!-- Button trigger modal -->
+
+                    <div class="fieldsets mt20 pb20">
+                        <button class="lnk button-apply bg-btn  " type="" data-toggle="modal"
+                            data-target="#exampleModal">
+                            Apply Now <i class="fas fa-chevron-right fa-icon"></i><span class="circ le"></span>
+                        </button>
+                    </div>
+                    <!-- Button trigger modal -->
+                </div>
+
+            </div>
+
+            <div class="col-lg-3 col-sm-6 mt30 shape-loc wow fadeInUp" data-wow-delay="0.4s">
+                <div class="s-block" data-tilt data-tilt-max="5" data-tilt-speed="1000">
+
+                    <h4>Business
+                        Manager</h4>
+                    <p>
+                        Are you a leader cum team player? Do you connect with creativity, time and organization culture?
+                    </p>
+                    <p>
+                        <span>
+                            2-5 Years of Experience
+                            Mumbai & Pune (Currently WFH)
+                            Full Time
+                        </span>
+                    </p>
+                    <div class="fieldsets mt20 pb20">
+                        <button type="submit" name="submit" class="lnk button-apply bg-btn" data-bs-dismiss="modal"
+                            data-toggle="modal" data-target="#exampleModal">
+                            Apply Now <i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <!-- /////////////////////// -->
+
+            <!-- /////////////////////////// -->
+            <div class="col-lg-3 col-sm-6 mt30 shape-loc wow fadeInUp" data-wow-delay="0.6s">
+                <div class="s-block" data-tilt data-tilt-max="5" data-tilt-speed="1000">
+
+                    <h4>Social Media
+                        Manager</h4>
+                    <p>
+                        Are you a leader cum team player? Do you connect with creativity, time and organization culture?
+                    </p>
+                    <p>
+                        <span>
+                            2-5 Years of Experience
+                            Mumbai & Pune (Currently WFH)
+                            Full Time
+                        </span>
+                    </p>
+                    <div class="fieldsets mt20 pb20">
+                        <button type="submit" name="submit" class="lnk button-apply bg-btn" data-bs-dismiss="modal"
+                            data-toggle="modal" data-target="#exampleModal">
+                            Apply Now <i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span>
+                        </button>
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6 mt30 shape-loc wow fadeInUp" data-wow-delay="0.8s">
+                <div class="s-block mb0" data-tilt data-tilt-max="5" data-tilt-speed="1000">
+
+                    <h4>Front End
+                        Developer</h4>
+                    <p>
+                        Are you a leader cum team player? Do you connect with creativity, time and organization culture?
+                    </p>
+                    <p>
+                        <span>
+                            2-5 Years of Experience
+                            Mumbai & Pune (Currently WFH)
+                            Full Time
+                        </span>
+                    </p>
+                    <div class="fieldsets mt20 pb20">
+                        <button type="submit" name="submit" class="lnk button-apply bg-btn" data-bs-dismiss="modal"
+                            data-toggle="modal" data-target="#exampleModal">
+                            Apply Now <i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</section>
+<!--End Service-->
+
+<!-- <section class="texture-sec" id="current-job">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -133,7 +417,7 @@ include"essentials/header.php";
                     ever since the 1500s, when an unknown printer took a galley of type
 
                 </p>
-                <!--job openings -->
+
                 <div class="panel-group font-carrier" id="accordion" role="tablist" aria-multiselectable="true">
 
                     <div class="panel panel-default">
@@ -896,7 +1180,7 @@ include"essentials/header.php";
                 </div>
             </div>
             <div class="col-md-4">
-                <!-- form -->
+             
                 <div class="form-block position-stick">
                     <div class="card-form">
                         <h4 class="updated">Send Us Updated Profile </h4>
@@ -943,13 +1227,7 @@ include"essentials/header.php";
                                 <label for="" class="clr-w">Upload Your Resume</label>
                                 <input class="padding-input" type="file" name="" id="" placeholder="Upload Your Resume">
                             </div>
-                            <!-- <div class="custom-control custom-checkbox">
-                                <input type="checkbox" class="custom-control-input" id="customCheck" name="example1"
-                                    checked="checked" />
-                                <label class="custom-control-label" for="customCheck">I agree to the
-                                    <a href="javascript:void(0)">Terms &amp; Conditions</a> of
-                                    Business Name.</label>
-                            </div> -->
+                          
                             <div class="fieldsets mt20 d-flex justify-content-center">
                                 <button type="submit" name="submit" class="lnk btn-main bg-btn button-sub">
                                     Submit <i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span>
@@ -963,12 +1241,12 @@ include"essentials/header.php";
                     </div>
 
                 </div>
-                <!-- ... -->
+               
 
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
 <!-- panel-group -->

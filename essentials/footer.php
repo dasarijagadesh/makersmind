@@ -15,7 +15,7 @@
             <div class="col-lg-12 col-sm-12">
                 <h3 class="ours-footer">Our Services</h3>
                 <div class="row fttlnks">
-                    <div class="col-lg-2 col-sm-6 ">
+                    <div class="col-lg-2 col-sm-6 pl-0">
                         <h5>WEB DESIGN & DEVELOPMENT</h5>
                         <ul class="footer-address-list link-hover">
                             <li><a href="get-quote.html"> UI Design</a></li>
@@ -62,7 +62,7 @@
                     <div class="col-lg-2 col-sm-6 ">
                         <h5>GAMING DEVELOPMENT</h5>
                         <ul class="footer-address-list link-hover">
-                            <li><a href="get-quote.html">Gaming arc & Animation
+                            <li><a href="get-quote.html">Gaming arc
                                 </a></li>
                             <li><a href="javascript:void(0)">Game Design</a></li>
                             <li><a href="javascript:void(0)">Game Program</a></li>
@@ -71,7 +71,7 @@
                         </ul>
                     </div>
                     <div class="col-lg-2 col-sm-6 ">
-                        <h5>MACHINE LEARNING SERVICES</h5>
+                        <h5>MACHINE LEARNING </h5>
                         <ul class="footer-address-list link-hover">
                             <li><a href="get-quote.html">Cognitive Services
                                 </a></li>
@@ -96,7 +96,7 @@
 
                         </div>
                     </div>
-                    <div class="col-lg-3 col-sm-6 padding-icons">
+                    <div class="col-lg-4 col-sm-6 padding-icons">
                         <h5>Follow Us</h5>
                         <div class="ff-social-icons mt-2">
                             <a href="javascript:void(0)" target="blank"><i class="fab fa-facebook"></i></a>
@@ -105,7 +105,7 @@
                             <a href="javascript:void(0)" target="blank"><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
-                    <div class="col-lg-6 pt60">
+                    <div class="col-lg-5 pt60">
                         <div class="footer-copyrights- shape-copy">
                             <p>© MakersMind | 2020. All Rights Reserved.</p>
                         </div>
