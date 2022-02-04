@@ -1296,7 +1296,7 @@ include"essentials/header.php";
                                 <a href="#"> Know About Nodejs!</a>
                             </h4>
                             <p>
-                                Lorem Ipsum is simply dummy text of the printing and typesetting
+                                Lorem Ipsum simply dummy text of the printing and typesetting
                                 industry.
                             </p>
                         </div>
